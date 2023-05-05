@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2007-2011: 
+  * B.S. in School of Life Sciences, Shandong University
+* 2011-2017:
+  * Ph.D in School of Basic Medical Sciences, Peking University (HSC), Supervisor: Prof. Mingliang Pu
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2021: 
+  * Postdoc in School of Computer Science, Peking University, Supervisor: Professor Tiejun Huang
+  * Duties included: 
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-Present: Research Assistant
+  * Image Processing Engineer in Life Simulation Research Center, Beijing Academy of Artifical Intelligence 
+  * Duties included: 
+  * 
   
 Skills
 ======
