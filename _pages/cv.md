@@ -23,7 +23,7 @@ Work experience
 ======
 * 2017-2021: Postdoctoral Fellowship
   * School of Computer Science, Peking University 
-  * Collaborative Supervisor: Professor Tiejun Huang
+  * Collaborative Supervisor: Prof. Tiejun Huang
   * Duties included: 
 
 
