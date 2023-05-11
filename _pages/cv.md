@@ -16,7 +16,7 @@ Education
   * Major in Microbiology
 * 2011-2017:
   * Ph.D in School of Basic Medical Sciences, Peking University (HSC)
-  * Major in Visual Function Restoration
+  * Major in Anatomy & Histoembryology
   * Supervisor: Prof. Mingliang Pu
 
 Work experience
