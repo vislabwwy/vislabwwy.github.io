@@ -13,20 +13,23 @@ Education
 ======
 * 2007-2011: 
   * B.S. in School of Life Sciences, Shandong University
+  * Major in Microbiology
 * 2011-2017:
   * Ph.D in School of Basic Medical Sciences, Peking University (HSC)
+  * Major in Visual Function Restoration
   * Supervisor: Prof. Mingliang Pu
 
 Work experience
 ======
-* 2017-2021: 
-  * Postdoc in School of Computer Science, Peking University 
+* 2017-2021: Postdoctoral Fellowship
+  * School of Computer Science, Peking University 
   * Collaborative Supervisor: Professor Tiejun Huang
   * Duties included: 
 
 
-* 2021-Present: Research Assistant
-  * Bio-image Processing Engineer in Life Simulation Research Center, Beijing Academy of Artifical Intelligence 
+* 2021-Present: Bio-image Processing Engineer
+  * Life Simulation Research Center, Beijing Academy of Artifical Intelligence 
+  * Center Leader: Lei Ma
   * Duties included: 
 
   
