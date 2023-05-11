@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenyao Wang"
   avatar           : "bio-photo.png"
-  bio              : "A vision researcher, especially interested retinal stuffs"
+  bio              : "Interested in retina and bio-image processing"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Beijing Academy of Artificial Intelligence"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GTAWfXUAAAAJ&hl=en&oi=ao"
   email            : "wangwenyao@pku.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "vislabwwy"
+  twitter          : "vislabwwy"
   vine             :
   weibo            :
   xing             :

@@ -10,5 +10,3 @@ redirect_from:
 ---
 
 This is Dr. Wenyao Wang's home on the web 
-
-Some introductions.
