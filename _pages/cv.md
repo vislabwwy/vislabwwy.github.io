@@ -24,7 +24,7 @@ Work experience
   * 
 
 * 2021-Present: Research Assistant
-  * Image Processing Engineer in Life Simulation Research Center, Beijing Academy of Artifical Intelligence 
+  * Bio-image Processing Engineer in Life Simulation Research Center, Beijing Academy of Artifical Intelligence 
   * Duties included: 
   * 
   
