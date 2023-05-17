@@ -20,5 +20,5 @@ Echoes with Kolb's paper, the big question I am curious abput is how the eye, es
 - Physiological recording of retinal neuronal activity through microscopy can provide wider observation fields and thus many novel insights.
 3. **Efficient bio-image processing**
 - Above researching techniques development promote data (image here) production, efficient processing pipelines are essential to converting images to knowledge (I2K).   
-- Image processing itself is a branch of computational **vision** research. 
+- I'd rather to take image processing as the "retina" of computational vision, which deals with raw data for later better understanding.  
 
