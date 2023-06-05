@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-My research interests started with Prof. Helga Kolb's paper "[How the retina works](https://webvision.med.utah.edu/wp-content/uploads/2011/01/2003-01Kolb.pdf)", the first paper my supervisor Prof. Mingliang Pu recommended. After that, I was deeply attracted by this delicate slim tissue and devoted myself to understanding its organization and function better. My personal recommended material about retina is the online textbook [WEBVISION](https://webvision.med.utah.edu/) maintained by Prof. Bryan Jones now. 
+My research interests started with Helga Kolb's paper "[How the retina works](https://webvision.med.utah.edu/wp-content/uploads/2011/01/2003-01Kolb.pdf)", the first paper my supervisor Mingliang Pu recommended. After that, I was deeply attracted by this delicate slim tissue and devoted myself to understanding its organization and function better. My personal recommended material about retina is the online textbook [WEBVISION](https://webvision.med.utah.edu/) maintained by Bryan Jones now. 
 
-Echoes with Kolb's paper, the big question I am curious abput is how the eye, especially the retina, samples visual scenes and encodes them into neural information. To uncover that, my current efforts and thoughts include:
+Echoes with Kolb's paper, the big question I am curious about is how the eye, especially the retina, samples visual scenes and encodes them into neural information. To uncover that, my current efforts and thoughts include:
 1. **Sampling mechanisms of the retina**  
 - Every animal species has its own distinct retinal cell distribution pattern, what the reason and function is? Some quanlitative descriptions of this exist, but quantitative consideration is still lacking.  
 - A major difference between animal eyes from cameras is the non-uniform sampling, because perceiving rapidly is much more important than seeing clearly to animal survival. How can this rule inspire artificial designs?
