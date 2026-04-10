@@ -10,7 +10,9 @@ redirect_from:
 ---
 
 My journey in neuroscience started with "[How the retina works](https://webvision.med.utah.edu/wp-content/uploads/2011/01/2003-01Kolb.pdf)", a delicate, complex tissue that serves as the gateway to vision. I completed my PhD (2011–2016) at Peking University Health Science Center under the supervision of Prof. Mingliang Pu, focusing on the fundamental mechanisms of how the retina works. 
+
 Driven by a need to decode the structural "ground truth" of neural organization, I transitioned into the field of connectomics during my postdoctoral fellowship with Prof. Tiejun Huang at the School of Computer Science, Peking University. Following this, I spent two years at the Life Simulation Center of BAAI, reporting to Dr. Lei Ma, where I led efforts to integrate and open-source pipelines for large-scale connectomic data processing. In 2023, I joined the labs of Prof. Heping Cheng and Dr. Lei Ma at [the National Biomedical Imaging Center (NBIC)](https://nbic.pku.edu.cn/) to develop more efficient and robust methods for Bio-EM data. 
+
 Currently, I serve as an engineer at Platform IV of [the Multi-modal cross-scale Biomedical Imaging Facility](https://https://ioc.nbic.cn/) Flatform IV, specializing in high-performance, general-purpose image processing solutions on large-scale clusters.
 
 The central question driving my work is: How do animal eyes—specifically the retina—sample visual scenes and encode them into neural information? To address this, my research focuses on three key pillars:
