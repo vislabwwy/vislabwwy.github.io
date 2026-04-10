@@ -17,8 +17,8 @@ Work experience
   * Duties included:
     * Overseeing the operations and maintenance of High-Performance Computing (HPC) clusters and storage clusters.
     * Developing specialized high-performance platforms for large-scale biomedical image processing.
-* 2023-2025: Senior Researcher
-  * Leima's Lab, College of future technology, Peking University 
+* 2023-Present: Senior Researcher
+  * [Lei Ma's Lab](https://maleilab.cn), College of future technology, Peking University 
   * Lab PI: Lei Ma
   * Duties included:
     * Investigating neural simulation and leading the development of foundation models for biological imaging.
