@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,18 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* 2011-2017:
-  * Ph.D in School of Basic Medical Sciences, Peking University (HSC)
-  * Major in Anatomy & Histoembryology
-  * Supervisor: Prof. Mingliang Pu
-  * Core Competencies: Immunohistochemistry, retinal electrophysiology, animal behavior, data analysis, and laboratory management.
-* 2007-2011: 
-  * B.S. in School of Life Sciences, Shandong University
-  * Major in Microbiology
-  * Core Competencies: Molecular research on protein resistance mutations
 
 Work experience
 ======
@@ -47,6 +35,19 @@ Work experience
   * Duties included:
     * Executing full-stack connectomics workflows, including sample preparation and large-scale data acquisition.
     * Provided technical operations and maintenance for the JEOL JEM-1400 Transmission Electron Microscope.
+  
+Education
+======
+* 2011-2017:
+  * Ph.D in School of Basic Medical Sciences, Peking University (HSC)
+  * Major in Anatomy & Histoembryology
+  * Supervisor: Prof. Mingliang Pu
+  * Core Competencies: Immunohistochemistry, retinal electrophysiology, animal behavior, data analysis, and laboratory management.
+* 2007-2011: 
+  * B.S. in School of Life Sciences, Shandong University
+  * Major in Microbiology
+  * Core Competencies: Molecular research on protein resistance mutations
+
 
 
 
