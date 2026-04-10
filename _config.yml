@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wenyao Wang"
   avatar           : "bio-photo.png"
-  bio              : "Retinal circuitry & Bio-image processing"
-  location         : "NBIC, PKU, China"
-  employer         : "Peking University"
+  bio              : "Vison Neuroscience and AI"
+  # location         : "NBIC, PKU, China"
+  employer         : "NBIC, PKU, China"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GTAWfXUAAAAJ&hl=en&oi=ao"
   email            : "wangwenyao@pku.edu.cn"
