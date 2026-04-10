@@ -20,6 +20,7 @@ Education
   * B.S. in School of Life Sciences, Shandong University
   * Major in Microbiology
   * Core Competencies: Molecular research on protein resistance mutations
+
 Work experience
 ======
 * 2025-Present: Engineer
