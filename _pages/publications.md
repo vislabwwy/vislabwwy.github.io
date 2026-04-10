@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  der construction. 
+  Under construction ...
   
   You can explore my full list of publications on <b><a href="https://scholar.google.com/citations?user=GTAWfXUAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</b>
 {% endif %}
