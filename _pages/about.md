@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-My research interests started with Helga Kolb's paper "[How the retina works](https://webvision.med.utah.edu/wp-content/uploads/2011/01/2003-01Kolb.pdf)", the first paper my supervisor Mingliang Pu recommended. After that, I was deeply attracted by this delicate slim tissue and devoted myself to understanding its organization and function better. My personal recommended material about retina is the online textbook [WEBVISION](https://webvision.med.utah.edu/) maintained by Bryan Jones now. 
+My journey in neuroscience started with "[How the retina works](https://webvision.med.utah.edu/wp-content/uploads/2011/01/2003-01Kolb.pdf)", a delicate, complex tissue that serves as the gateway to vision. I completed my PhD (2011–2016) at Peking University Health Science Center under the supervision of Prof. Mingliang Pu, focusing on the fundamental mechanisms of how the retina works. Driven by a need to decode the structural "ground truth" of neural organization, I transitioned into the field of connectomics during my postdoctoral fellowship with Prof. Tiejun Huang at the School of Computer Science, Peking University. Following this, I spent two years at the Life Simulation Center of BAAI, reporting to Dr. Lei Ma, where I led efforts to integrate and open-source pipelines for large-scale connectomic data processing. In 2023, I joined the labs of Prof. Heping Cheng and Dr. Lei Ma at [the National Biomedical Imaging Center (NBIC)](https://nbic.pku.edu.cn/) to develop more efficient and robust methods for Bio-EM data. Currently, I serve as an engineer at Platform IV of [the Multi-modal cross-scale Biomedical Imaging Facility](https://https://ioc.nbic.cn/) Flatform IV, specializing in high-performance, general-purpose image processing solutions on large-scale clusters.
 
-Echoes with Kolb's paper, the big question I am curious about is how the eye, especially the retina, samples visual scenes and encodes them into neural information. To uncover that, my current efforts and thoughts include:
-1. **Sampling mechanisms of the retina**  
+The central question driving my work is: How do animal eyes—specifically the retina—sample visual scenes and encode them into neural information? To address this, my research focuses on three key pillars:
+1. **Retinal Sampling Mechanisms**  
 - Every animal species has its own distinct retinal cell distribution pattern, what the reason and function is? Some quanlitative descriptions of this exist, but quantitative consideration is still lacking.  
 - A major difference between animal eyes from cameras is the non-uniform sampling, because perceiving rapidly is much more important than seeing clearly to animal survival. How can this rule inspire artificial designs?
-2. **Retinal modeling**
+2. **Multimodal Retinal Modeling**
 - Retinal neuronal connections are ordered but complex. Connectomics can provide more comprehensive and precise observations. 
 - Physiological recording of retinal neuronal activity through microscopy can provide wider observation fields and thus many novel insights.
 3. **Efficient bio-image processing**
